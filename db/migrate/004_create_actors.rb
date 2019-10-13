@@ -1,0 +1,1 @@
+class Actors < ActiveRecord::Migration[4.2]
