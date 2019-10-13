@@ -1,1 +1,3 @@
-class Actors < ActiveRecord::Migration[4.2]
+class Actors < ActiveRecord::Migration[5.1]
+  
+end 
